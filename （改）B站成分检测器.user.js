@@ -1257,6 +1257,12 @@ $(function BiliChecker() {
 			displayIcon: "学",
 			keywords: ["班级", "年级", "小学", "初中", "高中", "中考", "高考", "四六级", "学生党", "不放假", "防沉迷", "上学", "开学", "班里", "班委", "放寒假", "写作业", "学校的", "我们班", "我们老师", "我们学校"],
 		},
+    {
+      displayName: "BanG Dream",
+      displayIcon: "https://i0.hdslb.com/bfs/face/632734033bdc5a81019b9822040f12d164f49a54.jpg@100w_100h.webp",
+      keywords: ["互动抽奖 #BanG Dream! 少女乐团派对!", "#BanG Dream! 少女乐团派对!", "邦邦"],
+      followings: [171818544] // 邦邦官号uid
+  },
 		{
 			displayName: "互助",
 			displayIcon: "互",
